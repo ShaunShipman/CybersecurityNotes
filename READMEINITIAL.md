@@ -25,9 +25,14 @@ Why are Social Engineering attacks effective?
 **Vishing** -
 
 **Phishing** - 
-    * **Angler Phishing** - 
-    * BEC (business email compromise) - 
-* Smishing/ SMS Phishing
+
+* _Angler Phishing_ - 
+
+* _BEC (business email compromise)_ - 
+
+* _Smishing/ SMS Phishing_ -
+* _Tabnabbing/ reverse tabnabbing_ -
+
 
 **Smishing** -
 
