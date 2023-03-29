@@ -25,23 +25,36 @@ Why are Social Engineering attacks effective?
 **Vishing** -
 
 **Phishing** - 
+    * **Angler Phishing** - 
+    * BEC (business email compromise) - 
+* Smishing/ SMS Phishing
 
 **Smishing** -
 
-*Impersonation -
+**Impersonation** -
 
 # Social Engineering Concepts Continued
 ## Vectors Continued
 
 **419/ Nigerian Prince/ Advance Fee Scams** - 
+
 **Baiting** - 
+
 **Diversion theft** - 
+
 **Honey Trap** - 
+
 **Phishing** - 
+
 **Pretexting** - 
+
 **Quid Pro Quo** - 
+
 **Scareware** - 
+
 **Tailgating** - 
+
 **Water Holing/ Watering Hole** - 
+
 
 
