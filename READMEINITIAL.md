@@ -33,9 +33,9 @@ Why are Social Engineering attacks effective?
 6 Key Principles of Social Engineering
 * _Authority_ - 
 * _Intimidation_ - 
-* _Consensus/Social proof_ - 
+* _Consensus/ Social proof_ - 
 * _Scarcity_ - 
-* _Familiarity/Liking_ - 
+* _Familiarity/ Liking_ - 
 * _Urgency_ - 
 
 # Main 4 Social Engineering attack vectors
@@ -44,9 +44,9 @@ Why are Social Engineering attacks effective?
 **Phishing** - 
 
 * _Angler Phishing_ - 
-* _BEC (business email compromise)_ - 
+* _BEC (Business Email Compromise)_ - 
 * _Smishing/ SMS Phishing_ -
-* _Tabnabbing/ reverse tabnabbing_ - 
+* _Tabnabbing/ Reverse Tabnabbing_ - 
 * _Vishing/ Voice Phishing_ -
 * _Whaling_ -
 
@@ -58,15 +58,20 @@ Why are Social Engineering attacks effective?
 
 **Vectors**
 
-* _419/ Nigerian Prince/ Advance Fee Scams_ - 
 
-* _Baiting_ - 
+| **Vectors** | **Description** | **Protections** |
+| --- | --- | --- |
+| _419/ Nigerian Prince/ Advance Fee Scams_ | Call for money | Educating Users |  
+
+| _Baiting_ | Baiting with something that tempts the user such as free media | Educate Users | 
+
+| --- | --- | --- |
 
 * _Credential Harvesting_ - 
 
-* _Diversion theft_ - 
+* _Diversion Theft_ - 
 
-* _Dumpster diving_ - 
+* _Dumpster Diving_ - 
 
 * _Eliciting Information_ - 
 
@@ -145,6 +150,7 @@ Why are Social Engineering attacks effective?
 
 [IT Governance UK Social Engineering](https://www.itgovernance.co.uk/social-engineering-attacks)
 
+[Cloudflare OSI Model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
 
 
 
