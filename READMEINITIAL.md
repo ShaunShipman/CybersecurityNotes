@@ -9,9 +9,9 @@ This is the opening document for my cybersecurity notes.
 
 3. [Attacks](#Attacks)
 
-4. [Social Engineering](#Social Engineering)
+4. [Social Engineering](#Social-Engineering)
 
-5. [OSI Model](#OSI Model)
+5. [OSI Model](#OSI-Model)
 
 
 # Threats
@@ -149,4 +149,4 @@ Why are Social Engineering attacks effective?
 
 
 
-[Back to Top](#Cybersecurity Notes)
+[Back to Top](#Cybersecurity-Notes)
