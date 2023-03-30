@@ -62,54 +62,30 @@ Why are Social Engineering attacks effective?
 | **Vectors** | **Description** | **Protections** |
 | --- | --- | --- |
 | _419/ Nigerian Prince/ Advance Fee Scams_ | Call for money | Educating Users |  
-| _Baiting_ | Baiting with something that tempts the user such as free media | Educate Users | 
-| --- | --- | --- |
-
-* _Credential Harvesting_ - 
-
-* _Diversion Theft_ - 
-
-* _Dumpster Diving_ - 
-
-* _Eliciting Information_ - 
-
-* _Hoax_ -
-
-* _Honey Trap_ - 
-
-* _Identity Fraud_ - 
-
-* _Impersonation_ - 
-
-* _Influence Campaigns(Hybrid warfare and Social media)_ - 
-
-* _Invoice Scams_ -
-
-* _Pharming_ - 
-
-* _Phishing_ - 
-
-* _Prepending_ -
-
-* _Pretexting_ - 
-
-* _Quid Pro Quo_ - 
-
-* _Reconnaissance_ -
-
-* _Scareware_ - 
-
-* _Shoulder Surfing_ -
-
-* _Spam_ -
-
-* _Spam over Instant Messaging(SPIM)_ -
-
-* _Tailgating_ - 
-
-* _Typosquatting_ - 
-
-* _Water Holing/ Watering Hole_ - 
+| _Baiting_ | Baiting a user with something that tempts them such as free media that can be used to entice the user to give personal information or download malicious files | Educate Users | 
+| _Credential Harvesting_ | Gathering of usernames and passwords that can be traded to other bad actors | Encrypting files that contain usernames and passwords so that if the file is accessed by a bad actor the data is protected |
+| _Diversion Theft_ |  |  |
+| _Dumpster Diving_ |  |  | 
+| _Eliciting Information_ |  |  | 
+| _Hoax_ |  |  |
+| _Honey Trap_ |  |  |
+| _Identity Fraud_ |  |  | 
+| _Impersonation_ |  |  | 
+| _Influence Campaigns(Hybrid warfare and Social media)_ |  |  | 
+| _Invoice Scams_ |  |  |
+| _Pharming_ |  |  |
+| _Phishing_ |  |  | 
+| _Prepending_ |  |  |
+| _Pretexting_ |  |  |
+| _Quid Pro Quo_ |  |  | 
+| _Reconnaissance_ |  |  |
+| _Scareware_ |  |  |
+| _Shoulder Surfing_ |  |  |
+| _Spam_ |  |  |
+| _Spam over Instant Messaging(SPIM)_ |  |  |
+| _Tailgating_ |  |  |
+| _Typosquatting_ |  |  | 
+| _Water Holing/ Watering Hole_ |  |  | 
 
 
 
