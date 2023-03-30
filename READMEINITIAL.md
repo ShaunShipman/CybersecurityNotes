@@ -146,7 +146,6 @@ Why are Social Engineering attacks effective?
 [IT Governance UK Social Engineering](https://www.itgovernance.co.uk/social-engineering-attacks)
 
 
-|-|
-||
+|---|
 
 [Back to Top](#Cybersecurity-Notes)
