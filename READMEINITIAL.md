@@ -62,9 +62,7 @@ Why are Social Engineering attacks effective?
 | **Vectors** | **Description** | **Protections** |
 | --- | --- | --- |
 | _419/ Nigerian Prince/ Advance Fee Scams_ | Call for money | Educating Users |  
-
 | _Baiting_ | Baiting with something that tempts the user such as free media | Educate Users | 
-
 | --- | --- | --- |
 
 * _Credential Harvesting_ - 
