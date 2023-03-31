@@ -1,5 +1,8 @@
 # Cybersecurity Notes
-This is the opening document for my cybersecurity notes.
+This is the main document for my cybersecurity notes. The information is compiled from the sources listed at the bottom of the page. For further detail on many of the discussed pieces information please use the given links.
+
+(note to self) search "note to self" or "..." for sections that need to be changed.
+
 
 # Table of Contents
 
@@ -38,8 +41,12 @@ Why are Social Engineering attacks effective?
 * _Familiarity/ Liking_ - 
 * _Urgency_ - 
 
+
+
 # Main 4 Social Engineering attack vectors
 **Vishing** -
+
+
 
 **Phishing** - 
 
@@ -50,16 +57,19 @@ Why are Social Engineering attacks effective?
 * _Vishing/ Voice Phishing_ -
 * _Whaling_ -
 
+
+
 **Smishing** -
+
+
 
 **Impersonation** -
 
+
+
 # Social Engineering Continued
 
-**Vectors**
-
-
-| **Vectors** | **Description** | **Protections** |
+| **Attack Vectors** | **Description** | **Countermeasures** |
 | --- | --- | --- |
 | _419/ Nigerian Prince/ Advance Fee Scams_ | Call for money | Educating Users |  
 | _Baiting_ | Baiting a user with something that tempts them such as free media that can be used to entice the user to give personal information or download malicious files | Educate Users | 
@@ -86,6 +96,205 @@ Why are Social Engineering attacks effective?
 | _Tailgating_ |  |  |
 | _Typosquatting_ |  |  | 
 | _Water Holing/ Watering Hole_ |  |  | 
+
+
+
+# Malware
+
+Malware is... and examples of malware are...
+**(note to self)add indicators for each**
+* _Backdoor_ - 
+* _Bots_ - 
+* _Commands and Control_ - 
+* _Cryptomalware_ - 
+* _Fileless Virus_ - 
+* _Keyloggers_ - 
+* _Logic Bombs_ - 
+* _Potentially Unwanted Programs (PUPs)_ - 
+* _Ransomware_ - 
+* _Remote Access Trojan (RAT)_ - 
+* _Rootkit_ - 
+* _Spyware_ - 
+* _Trojans_ - 
+* _Worms_ - 
+* __ - 
+
+
+
+# Password Attacks
+
+Password attacks are...
+
+**(note to self)add indicators for each**
+
+* _Brute force (online/ offline)_ - 
+* _Dictionary_ - 
+* _Plaintext/ Unencrypted_ - 
+* _Rainbow Table_ - 
+* _Spraying_ - 
+* __ - 
+
+
+
+# Physical Attacks
+
+Physical attacks are...
+
+**(note to self)add indicators for each**
+
+* _Card Cloning_ - 
+* _Malicious Flash Drive_ - 
+* _Malicious Universal Serial Bus (USB) Cable_ - 
+* _Skimming_ - 
+* __ - 
+
+
+
+
+# Adversarial Artificial Intelligence (AI)
+
+**(note to self)add indicators for each**
+
+* _Security of Machine Learning Algorithms_ - 
+* _Tainted Training Data for Machine Learning (ML)_ - 
+* __ - 
+
+
+
+# Supply-Chain Attacks
+
+**(note to self)add indicators for each**
+
+
+
+# Cloud-Based vs. On-Premises Attacks
+
+**(note to self)add indicators for each**
+
+
+
+# Cryptographic Attacks
+
+**(note to self)add indicators for each**
+
+* _Birthday_ - 
+* _Collision_ - 
+* _Downgrade_ - 
+
+
+
+
+# Application Attacks
+
+**(note to self)add indicators for each**
+
+
+
+## Privilege Escalation
+
+**(note to self)add indicators for each**
+
+
+
+## Cross-Site Scripting
+
+**(note to self)add indicators for each**
+
+
+
+## Injections
+* _Dynamic-Link Library (DLL)_ - 
+* _Extensible Markup Language (XML)_ - 
+* _Lightweight Directory Access Protocol (LDAP)_ - 
+* _Structured Query Language (SQL)_ - 
+* __ - 
+
+
+
+## Race Conditions
+
+**(note to self)add indicators**
+
+* _Time of Check/ Time of Use_ - 
+
+
+
+## Error Handling
+
+**(note to self)add indicators**
+
+
+
+## Improper Input Handling
+
+**(note to self)add indicators**
+
+
+# Relay Attack
+
+**(note to self)add indicators**
+
+* _Session Replays_ - 
+
+
+
+## Integer Overflow
+
+**(note to self)add indicators**
+
+
+
+## Request Forgeries
+
+**(note to self)add indicators**
+
+* _Cross-Site_ - 
+* _Server-Side_ - 
+
+
+
+## Application Programming Interface (API) Attacks
+
+**(note to self)add indicators**
+
+
+
+## Resource Exhaustion
+
+**(note to self)add indicators**
+
+
+
+
+## Memory Leak
+
+**(note to self)add indicators**
+
+
+
+
+## Secure Sockets Layer (SSL) Stripping
+
+**(note to self)add indicators**
+
+
+
+## Driver Manipulation
+
+**(note to self)add indicators**
+
+* _Shimming_ - 
+* _Refactoring_ - 
+
+
+
+
+## Pass the Hash
+
+**(note to self)add indicators**
+
+
+
 
 
 
