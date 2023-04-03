@@ -565,6 +565,273 @@ Malicious Code or Script Execution
 
 ## Configuration Management
 
+* _Baseline Configuration_ -
+* _Diagrams_ -
+* _Internet Protocol (IP) Schema_ -
+* _Standard Naming Conventions_ -
+
+
+## Data Sovereignty
+
+
+## Data Protection
+
+* _At Rest_ -
+* _Data Loss Prevention (DLP)_ -
+* _Encryption_ -
+* _In Processing_ -
+* _In Transit/ Motion_ -
+* _Masking_ -
+* _Rights Management_ -
+* _Tokenization_ -
+
+
+
+## Geographical Considerations
+
+
+## Response and Recovery Controls
+
+
+
+## Secure Sockets Layer (SSL)/ Transport Layer Security (TLS) Inspection
+
+
+## Hashing
+
+
+## API Considerations
+
+
+
+## Site Resiliency
+
+* _Cold Site_ -
+* _Hot Site_ -
+* _Warm Site_ -
+
+## Deception and Disruption
+
+* _DNS Sinkhole_ -
+* _Fake Telemetry_ -
+* _Honeyfiles_ -
+* _Honeynets_ -
+* _Honeypots_ -
+
+
+# Virtualization and Cloud Computing Concepts
+
+
+## Cloud Models
+
+* _Anything as a Service (XaaS)_ -
+* _Community_ -
+* _Hybrid_ -
+* _Infrastructure as a Service (IaaS)_ -
+* _Platform as a Service (PaaS)_ -
+* _Private_ -
+* _Public_ -
+* _Software as a Service (SaaS)_ -
+
+
+
+## Cloud Service Providers
+
+
+## Managed Service Provider (MSP)/ Managed Security Service Provider (MSSP)
+
+
+## On-Premises vs Off-Premises
+
+
+## Fog Computing
+
+
+## Edge Computing
+
+
+## Thin Client
+
+
+
+## Containers
+
+
+
+## Microservices/ API
+
+
+
+## Infrastructure as Code
+
+* _Software-Defined Networking (SDN)_ -
+* _Software-Defined Visibility (SDV)_ -
+
+
+
+## Serverless Architechure
+
+
+## Services Integration
+
+
+## Resource Policies
+
+
+## Transit Gateway
+
+
+## Virtualization
+
+* _Virtual Machine (VM) Escape Protection_ -
+* _Virtual Machine (VM) Sprawl Avoidance_ -
+
+
+
+
+# Secure Application Development, Deployment, and Automation Concepts
+
+## Environment
+
+* _Development_ -
+* _Test_ -
+* _Staging_ -
+* _Production_ -
+* _Quality Assurance (QA)_ -
+
+
+## Provisioning and Deprovisioning
+
+
+## Integrity Measuring
+
+
+## Secure Coding Techniques
+
+* _Code Reuse/ Dead Code_ -
+* _Data Exposure_ -
+* _Memory Management_ -
+* _Normalization_ -
+* _Obfuscation/ Camouflage_ -
+* _Server-Side vs Client-Side Execution and Validation_ -
+* _Stored Procedures_ -
+* _Use of Third-Party Libraries and Software Development Kits (SDKs)_ -
+
+
+## Open Web Application Security Project (OWASP)
+
+
+## Software Diversity
+
+* _Binary_ -
+* _Compiler_ -
+
+
+
+## Automation/ Scripting
+
+* _Automated Courses of Action_ -
+* _Continuous Delivery_ -
+* _Continuous Deployment_ -
+* _Continuous Integration_ -
+* _Continuous Monitoring_ -
+* _Continuous Validation_ -
+
+
+## Elasticity
+
+
+## Scalability
+
+
+## Version Control
+
+
+
+
+# Authentication and Authorization Design Concepts
+
+
+## Authentication Methods
+
+* _Attestation_ -
+* _Directory Services_ -
+* _Federation_ -
+* _Smart Card Authentication_ -
+* _Technologies_ -
+	* _Authentication Applications_ -
+	* _Time-Based One-Time Password (TOTP)_ -
+	* _HMAC-Based One-Time Password (HOTP)_ -
+	* _Short Message Services (SMS)_ -
+	* _Token Key_ -
+	* _Static Codes_ -
+	* _Push Notifications_ -
+	* _Phone Call_ -
+
+
+
+## Biometrics
+
+* _Crossover Error Rate_ -
+* _Efficacy Rates_ -
+* _Facial_ -
+* _False Acceptance_ -
+* _False Rejection_ -
+* _Fingerprint_ -
+* _Gait Analysis_ -
+* _Iris_ -
+* _Retina_ -
+* _Vein_ -
+* _Voice_ -
+
+
+## Multifactor Authentication (MFA) Factors and Attributes
+
+* _Attributes_ -
+	* _Something you are_ -
+	* _Something you can do_ -
+	* _Something you exhibit_ -
+	* _Something you know_ -
+* _Factors_ -
+	* _Something you know_ -
+	* _Something you have_ -
+	* _Something you are_ -
+
+## Authentication, Authorization, and Accounting (AAA)
+
+
+
+## Cloud vs On-Premises Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Encryption Methods
+
+## Asynchronous
+
+## Synchronous
+
+## Diffie-Hellman Key Exchange
 
 
 
