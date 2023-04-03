@@ -805,6 +805,702 @@ Malicious Code or Script Execution
 
 
 
+# Implementing Cybersecurit Resilience for Scenarios
+
+## Redundancy
+
+* _Geographic Dispersal_ -
+* _Disk_ -
+	* _Redundant Array of Inexpensive Disks (RAID) Levels_ -
+	* _Multipath_ -
+* _Network_ -
+	* _Load Balancers_ -
+	* _Network Interface Card (NIC) Teaming_ -
+* _Power_ -
+	* _Uninterruptible Power Supply (UPS)_ -
+	* _Generator_ -
+	* _Dual Supply_ -
+	* _Managed Power Distribution Units (PDUs)_ -
+
+
+## Replication
+
+* _Storage Area Network_ -
+* _VM_ -
+
+## On-Premises vs Cloud
+
+## Backup Types
+
+* _Full_ -
+* _Incremental_ -
+* _Snapshot_ -
+* _Differential_ -
+* _Tape_ -
+* _Disk_ -
+* _Copy_ -
+* _Network-Attached Storage (NAS)_ -
+* _Storage Area Network_ -
+* _Cloud_ -
+* _Image_ -
+* _Online vs Offline_ -
+* _Offsite Storage_ -
+	* _Distance Considerations_ -
+
+
+## Non-Persistence
+
+* _Revert to Known State_ -
+* _Last Known-Good Configuration_ -
+* _Live Boot Media_ -
+
+
+## High Availability
+
+* _Scalability_ -
+
+
+## Restoration Order
+
+
+## Diversity
+
+* _Technologies_ -
+* _Vendors_ -
+* _Crypto_ -
+* _Controls_ -
+
+
+
+# Security Implications of Embedded and Specialized Systems
+
+
+## Embedded Systems
+
+* _Raspberry Pi_ -
+* _Field-Programmable Gate Array (FPGA)_ -
+* _Arduino_ -
+
+
+## Supervisory Control and Data Acquisition (SCADA)/ Industrial Control System (ICS)
+
+* _Facilities_ -
+* _Industrial_ -
+* _Manufacturing_ -
+* _Energy_ -
+* _Logistics_ -
+
+
+## Internet of Things (IoT)
+
+* _Sensors_ -
+* _Smart Devices_ -
+* _Wearables_ -
+* _Facility Automation_ -
+* _Weak Defaults_ -
+
+
+## Specialized
+
+* _Medical Systems_ -
+* _Vehicles_ -
+* _Aircraft_ -
+* _Smart Meters_ -
+
+
+
+## Voice over IP (VoIP)
+
+
+## Heating, Ventilation, Air Conditioning (HVAC)
+
+
+## Drones
+
+
+
+## Multifunction Printer (MFP)
+
+
+
+## Real-Time Operating System (RTOS)
+
+
+
+## Surveillance Systems
+
+
+
+
+## System on Chip (SoC)
+
+
+
+## Communication Considerations
+
+* _5G_ -
+* _Narrow-Band_ -
+* _Baseband Radio_ -
+* _Subscriber Identity Module (SIM) Cards_ -
+* _Zigbee_ -
+
+
+## Constraints
+
+* _Power_ -
+* _Compute_ -
+* _Network_ -
+* _Crypto_ -
+* _Inability to Patch_ -
+* _Authentication_ -
+* _Range_ -
+* _Cost_ -
+* _Implied Trust_ -
+
+
+# Importance of Physical Security Controls
+
+## Bollards/ Barricades
+
+
+## Access Control Vestibules
+
+
+## Badges
+
+
+## Alarms
+
+
+## Signage
+
+
+
+## Cameras
+
+* _Motion Recognition_ -
+* _Object Detection_ -
+
+
+## Closed-Circuit Television (CCTV)
+
+
+## Industrial Camouflage
+
+
+
+## Personnel
+
+* _Guards_ -
+* _Robot Sentries_ -
+* _Reception_ -
+* _Two-Person Integrity/Control_ -
+
+
+## Locks
+
+* _Biometrics_ -
+* _Electronic_ -
+* _Physical_ -
+* _Cable Locks_ -
+
+
+## USB Data Blocker
+
+
+## Lighting
+
+
+## Fencing
+
+
+## Fire Suppression
+
+
+## Sensors
+
+* _Motion Detection_ -
+* _Nois Detection_ -
+* _Proximity Reader_ -
+* _Moisture Detection_ -
+* _Cards_ -
+* _Temperature_ -
+
+
+## Drones
+
+## Visitor Logs
+
+
+## Faraday Cages
+
+
+## Air Gap
+
+
+## Screened Subnet (Previously Demilitarized Zone)
+
+
+
+## Protected Cable Distribution
+
+
+
+## Secure Areas
+
+* _Air Gap_ -
+* _Vault_ -
+* _Safe_ -
+* _Hot Aisle_ -
+* _Cold Aisle_ -
+
+
+
+## Secure Data Destruction
+
+* _Burning_ -
+* _Shredding_ -
+* _Pulping_ -
+* _Pulverizing_ -
+* _Degaussing_ -
+* _Third-Party Solutions_ -
+
+
+# Cryptographic Concepts
+
+
+## Digital Signatures
+
+
+
+## Key Length
+
+**(Note to self)** Add quantum computer bit and now and later attack
+
+## Salting
+
+
+## Hashing
+
+
+
+## Key Exchange
+
+**(Note to self)** key types and methods of exchange
+
+
+
+## Elliptic-Curve Cryptography
+
+
+
+## Perfect Forward Secrecy
+
+
+
+## Quantum
+* _Communications_ -
+* _Computing_ -
+
+
+
+## Post-Quantum
+effect of quantum computers on keys
+
+
+## Ephemeral
+
+
+## Modes of Operation
+
+* _Authenticated_ -
+* _Unauthenticated_ -
+* _Counter_ -
+
+
+## Blockchain
+
+* _Public Ledgers_ -
+
+
+## Cipher Suites
+
+* _Stream_ -
+* _Block_ -
+
+
+## Symmetric vs Asymmetric
+
+
+## Lightweight Cryptography
+
+
+
+## Steganography
+
+* _Audio_ -
+* _Video_ -
+* _Image_ -
+
+
+## Homomorphic Encryption
+
+
+
+## Common Use Cases
+
+* _Low Power Devices_ -
+* _Low Latency_ -
+* _High Resiliency_ -
+* _Supporting Confidentiality_ -
+* _Supporting Integrity_ -
+* _Supporting Obfuscation_ -
+* _Supporting Authentication_ -
+* _Supporting Non-Repudiation_ -
+
+
+## Limitations
+
+* _Speed_ -
+* _Size_ -
+* _Weak Keys_ -
+* _Time_ -
+* _Longevity_ -
+* _Predictability_ -
+* _Reuse_ -
+* _Entropy_ -
+* _Computational Overheads_ -
+* _Resource vs Security Constraints_ -
+
+
+
+
+
+# Implementation
+
+
+# Security Protocol Implementation for Scenarios
+
+
+## Protocols
+
+* _Domain Name System_ -
+* _Security Extensions (DNSSEC)_ -
+* _SSH_ -
+* _Secure/ Multipurpose Internet Mail Extensions (S/MIME)_ -
+* _Secure Real-Time Transport Protocol (SRTP)_ -
+* _Lightweight Directory Access Protocol Over SSL (LDAPS)_ -
+* _File Transfer Protocol, Secure (FTPS)_ -
+* _SSH File Transfer Protocol (SFTP)_ -
+* _Simple Network Management Protocol, version 3 (SNMPv3)_ -
+* _Hypertext Transfer Protocol over SSL/ TLS (HTTPS)_ -
+* _IPSec_ -
+	* _Authentication Header (AH)/ Encapsulation Security Payloads (ESP)_ -
+	* _Tunnel/ Transport_ -
+* _Post Office Protocol (POP)/ Internet Message Access Protocol (IMAP)_ -
+
+
+## Use Cases
+
+* _Voice and Video_ -
+* _Time Synchronization_ -
+* _Email and Web_ -
+* _File Transfer_ -
+* _Directory Services_ -
+* _Remote Access_ -
+* _Domain Name Resolution_ -
+* _Routing and Switching_ -
+* _Network Address Allocation_ -
+* _Subscription Services_ -
+
+
+
+# Implement Host or Application Security Solutions for Scenarios
+
+## Endpoint Protection
+
+* _Antivirus_ -
+* _Anti-Malware_ -
+* _Endpoint Detection and Response (EDR)_ -
+* _DLP_ -
+* _Next-Generation Firewall (NGFW)_ -
+* _Host-Based Intrusion Prevention System (HIPS)_ -
+* _Host-Based Intrusion Detection System (HIDS)_ -
+* _Host-Based Firewall_ -
+
+
+## Boot Integrity
+
+* _Boot Security/ Unified Extensible_ -
+* _Measured Boot_ -
+* _Boot Attestation_ -
+
+
+## Database
+
+* _Tokenization_ -
+* _Salting_ -
+* _Hashing_ -
+
+
+## Application Security
+
+* _Input Validations_ -
+* _Secure Cookies_ -
+* _Hypertext Transfer Protocol (HTTP) Headers_ -
+* _Code Signing_ -
+* _Allow List_ -
+* _Block List/ Deny List_ -
+* _Secure Coding Practices_ -
+* _Static Code Analysis_ -
+	* _Manual Code Review_ -
+* _Dynamic Code Analysis_ -
+* _Fuzzing_ -
+
+
+## Hardening
+* _Open Ports and Services_ -
+* _Registry_ -
+* _Disk Encryption_ -
+* _OS_ -
+* _Patch Management_ -
+	* _Third-Party Updates_ -
+	* _Auto-Update_ -
+
+
+## Self-Encrypting Drive (SED)/ Full-Disk Encryption (FDE)
+
+* _Opal_ -
+
+
+## Hardware Root of Trust
+
+
+
+## Trusted Platform Module (TPM)
+
+
+## Sandboxing
+
+
+
+
+# Implement Secure Network Designs for a Scenario
+
+
+## Load Balancing
+
+* _Active/ Active_ -
+* _Active/ Passive_ -
+* _Scheduling_ -
+* _Virtual IP_ -
+* _Persistence_ -
+
+
+## Network Segementation
+
+* _Virtual Local Area Network (VLAN)_ -
+* _Screened Subnet (Previously Demilitarized Zone)_ -
+* _East-West Traffic_ -
+* _Extranet_ -
+* _Intranet_ -
+* _Zero Trust_ -
+
+
+## Virtual Private Network (VPN)
+
+* _Always-On_ -
+* _Split Tunnel vs Full Tunnel_ -
+* _Remote Access vs Site-to-Site_ -
+* _IPSec_ -
+* _SSL/ TLS_ -
+* _HTML5_ -
+* _Layer 2 Tunneling Protocol (L2TP)_ -
+
+
+## DNS
+
+
+## Network Access Control (NAC)
+
+* _Agent and Agentless_ -
+
+
+## Out-of-Band Management
+
+
+
+## Port Security
+
+* _Broadcast Storm Prevention_ -
+* _Bridge Protocol Data Unit (BPDU) Guard_ -
+* _Loop Prevention_ -
+* _Dynamic Host Configuration Protocol (DHCP) Snooping_ -
+* _Media Access Control (MAC) Filtering_ -
+
+## Network Appliances
+
+* _Jump Servers_ -
+* _Proxy Servers_ -
+	* _Forward_ -
+	* _Reverse_ -
+* _Network-Based Intrusion Detection System (NIDS)/ Network-Based Intrusion Prevention System (NIPS)_ -
+	* _Signature-Based_ -
+	* _Heuristic/ Behavior_ -
+	* _Anomaly_ -
+	* _Inline vs Passive_ -
+* _HSM_ -
+* _Sensors_ -
+* _Collectors_ -
+* _Aggregators_ -
+* _Firewalls_ -
+	* _Web Application Firewall (WAF)_ -
+	* _NGFW_ -
+	* _Stateful_ -
+	* _Stateless_ -
+	* _Unified Threat Management (UTM)_ -
+	* _Network Address Translation (NAT) Gateway_ -
+	* _Content/ URL Filter_ -
+	* _Open-Source vs Proprietary_ -
+	* _Hardware vs Software_ -
+	* _Appliance vs Host-Based vs Virtual_ -
+
+
+## Access Control List (ACL)
+
+
+## Route Security
+
+
+## Quality of Service (QoS)
+
+
+
+## Implications of IPv6
+
+
+
+## Port Spanning/ Port Mirroring
+
+* _Port Taps_ -
+
+
+
+## Monitoring Services
+
+
+
+## File Integrity Monitors
+
+
+# Install and Configure Wireless Security Settings for Scenarios
+
+
+## Cryptographic Protocols
+
+* _WiFi Protected Access 2 (WPA2)_ -
+* _WiFi Protected Access 3 (WPA3)_ -
+* _Counter-Mode/ CBC-MAC Protocol (CCMP)_ -
+* _Simultaneous Authentication of Equals (SAE)_ -
+
+
+
+## Authentication Protocols
+
+* _Extensible Authentication Protocol (EAP)_ -
+* _Protected Extensible Authentication Protocol (PEAP)_ -
+* _EAP-FAST_ -
+* _EAP-TLS_ -
+* _EAP-TTLS_ -
+* _IEEE 802.1X_ -
+* _Remote Authentication Dial-in User Service (RADIUS) Federation_ -
+
+
+
+## Methods
+
+* _Pre-Shared Key (PSK) vs Enterprise vs Open_ -
+* _WiFi Protected Setup (WPS)_ -
+* _Captive Portals_ -
+
+
+## Installation Considerations
+
+* _Site Surveys_ -
+* _Heat Maps_ -
+* _WiFi Analyzers_ -
+* _Channel Overlaps_ -
+* _Wireless Access Point (WAP) Placement_ -
+* _Controller and Access Point Security_ -
+
+
+# Implement Secure Mobile Solutions
+
+## Connection Methods and Receivers
+
+* _Cellular_ -
+* _WiFi_ -
+* _Bluetooth_ -
+* _NFC_ -
+* _Infrared_ -
+* _USB_ -
+* _Point-to-Point_ -
+* _Point-to-Multipoint_ -
+* _Global Positioning System (GPS)_ -
+* _RFID_ -
+
+## Mobile Device Management (MDM)
+
+* _Application Management_ -
+* _Content Management_ -
+* _Remote Wipe_ -
+* _Geofencing_ -
+* _Geolocation_ -
+* _Screen Locks_ -
+* _Push Notifications_ -
+* _Passwords and PINs_ -
+* _Biometrics_ -
+* _Context-Aware Authentication_ -
+* _Containerization_ -
+* _Storage Segmentation_ -
+* _Full Device Encryption_ -
+
+
+## Mobile Devices
+
+* _MicroSD Hardware Security Module (HSM)_ -
+* _MDM/ Unified Endpoint Management (UEM)_ -
+* _Mobile Application Management (MAM)_ -
+* _SEAndroid_ -
+
+
+## Enforcement and Monitoring of...
+
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+
+
+## Deployment Models
+
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
 
 
 
@@ -817,15 +1513,7 @@ Malicious Code or Script Execution
 
 
 
-
-
-
-
-
-
-
-
-#Encryption Methods
+# Encryption Methods
 
 ## Asynchronous
 
