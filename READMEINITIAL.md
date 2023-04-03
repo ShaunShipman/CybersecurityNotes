@@ -295,6 +295,277 @@ Physical attacks are...
 
 
 
+# Network Attacks
+
+## Wireless
+
+**(note to self)add indicators**
+
+* _Bluejacking_ -
+* _Bluesnarfing_ -
+* _Disassociation_ -
+* _Evil Twin_ -
+* _Initialization Vector (IV)_ -
+* _Jamming_ -
+* _Near-Field Communication (NFC)_ -
+* _Radio Frequency Identification (RFID)_ -
+* _Rogue Access Point_ -
+
+## On-Path Attack/ Man-in-the-Middle Attack/ Man-in-the-Browser Attack
+
+**(note to self)add indicators**
+
+
+
+## Layer 2 Attacks
+
+**(note to self)add indicators**
+
+* _Address Resolution Protocol (ARP) Poisoning_ -
+* _Media Access Control (MAC) Cloning_ -
+* _Media Access Control (MAC) Flooding_ -
+
+
+
+## Domain Name System (DNS)
+
+**(note to self)add indicators**
+
+* _DNS Poisoning_ -
+* _Domain Hijacking_ -
+* _Domain Reputation_ -
+* _Uniform Resolution Locator (URL) Redirection_ -
+
+
+
+## Distributed Denial-of-Service (DDoS)
+
+**(note to self)add indicators**
+
+* _Application_ -
+* _Network_ -
+* _Operational Technology (OT)_ -
+
+
+Malicious Code or Script Execution
+
+**(note to self)add indicators**
+
+
+* _Bash_ -
+* _Macros_ -
+* _PowerShell_ -
+* _Python_ -
+* _Visual Basic for Applications (VBA)_ -
+
+
+
+# Threat Actors, Vectors and Intelligence Sources
+
+
+
+## Actors and Threats
+
+* _Advanced Persistent Threat (APT)_ -
+* _Competitors_ -
+* _Criminal Syndicates_ -
+* _Hackers (Authorized)_ -
+* _Hackers (Semi-Authorized)_ -
+* _Hackers (Unauthorized)_ -
+* _Hacktivists_ -
+* _Insider Threats_ -
+* _Script Kiddies_ -
+* _Shadow IT_ -
+* _State Actors_ -
+
+
+## Attributes of Actors
+
+* _Intent/ Motivation_ -
+* _Internal/ External_ -
+* _Level of Sophistication/ Capability_ -
+* _Resources/ Funding_ -
+
+
+
+## Vectors
+
+* _Cloud_ -
+* _Direct Access_ -
+* _Email_ -
+* _Removable Media_ -
+* _Social Media_ -
+* _Supply Chain_ -
+* _Wireless_ -
+
+
+
+## Threat Intelligence Sources
+
+* _Automated Indicator Sharing (AIS)_ - Structured Threat Information eXpression (STIX)/ Trusted Automated eXchange of Intelligence Information (TAXII)
+* _Closed/ Proprietary_ -
+* _Dark Web_ -
+* _File/ Code Repositories_ -
+* _Indicators of Compromise_ -
+* _Open-Source Intelligence (OSINT)_ -
+* _Predictive Analysis_ -
+* _Public/ Private Information and Sharing Centers_ -
+* _Threat Maps_ -
+* _Vulnerability Databases_ -
+
+
+
+## Research Sources
+
+* _Academic Journals_ -
+* _Adversary Tactics, Techniques, and Procedures (TTP)_ -
+* _Conferences_ -
+* _Local Industry Groups_ -
+* _Requests for Comments (RFC)_ -
+* _Social Media_ -
+* _Threat Feeds_ -
+* _Vendor Websites_ -
+* _Vulnerability Feeds_ -
+
+
+# Security Concerns with Vulnerability Types
+
+## Cloud-Based vs On-Premises
+
+
+## Zero-Day
+
+
+## Weak Configurations
+
+* _Default Settings_ -
+* _Errors_ -
+* _Open Permissions_ -
+* _Open Ports and Services_ -
+* _Unsecure Protocols_ -
+* _Unsecure Root Accounts_ -
+* _Weak Encryption_ -
+
+
+## Third-Party Risks
+
+* _Data Storage_ -
+* _Outsourced Code Development_ -
+* _Supply Chain_ -
+* _Vendor Management (Lack of Vendor Support)_ -
+* _Vendor Management (System Integration)_ -
+
+
+
+## Improper or Weak Patch Management
+
+* _Applications_ -
+* _Firmware_ -
+* _Operating Systems (OS)_ -
+
+
+
+## Legacy Platforms
+
+
+
+## Impacts
+
+* _Availability Loss_ -
+* _Data Breaches_ -
+* _Data Exfiltration_ -
+* _Data Loss_ -
+* _Financial_ -
+* _Identity Theft_ -
+* _Reputation_ -
+
+
+
+# Techniques in Security Assessments
+
+## Threat Hunting
+
+* _Advisories and Bulletins_ -
+* _Intelligence Fusion_ -
+* _Maneuver_ -
+* _Threat Feeds_ -
+
+
+
+## Vulnerability Scans
+
+* _Application_ -
+* _Common Vunlerabilites and Exposures (CVE)/ Common Vulnerability Scoring System (CVSS)_ -
+* _Configuration Review_ -
+* _Credentialed vs Non-Credentialed_ -
+* _False Negatives_ -
+* _False Positives_ -
+* _Intrusive vs Non-Intrusive_ -
+* _Log Reviews_ -
+* _Network_ -
+* _Web Application_ -
+
+
+## Syslog/ Security Information and Event Management (SIEM)
+
+* _Data Inputs_ -
+* _Log Aggregation_ -
+* _Log Collectors_ -
+* _Packet Capture_ -
+* _Review Reports_ -
+* _Security Monitoring_ -
+* _Sentiment Analysis_ -
+* _User Behavior Analysis_ -
+
+
+## Security Orchestration, Automation and Response (SOAR)
+
+
+
+
+# Penetration Testing Techniques
+
+## Penetration Testing
+
+* _Bug Bounty_ -
+* _Cleanup_ -
+* _Environment (Known)_ -
+* _Environment (Partially Known)_ -
+* _Environment (Unknown)_ -
+* _Lateral Movement_ -
+* _Persistence_ -
+* _Pivoting_ -
+* _Privilege Escalation_ -
+* _Rules of Engagement_ -
+
+
+
+
+## Passive and Active Reconnaissance
+
+* _Drones_ -
+* _Footprinting_ -
+* _OSINT_ -
+* _War Driving_ -
+* _War Flying_ -
+
+
+## Exercise Types
+
+* _Blue-Team_ -
+* _Purple-Team_ -
+* _Red-Team_ -
+* _White-Team_ -
+
+
+
+# Architecture and Design
+
+# Enterprise Environment Security Concepts (Importance)
+
+## Configuration Management
+
+
 
 
 
