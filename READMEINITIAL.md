@@ -1476,34 +1476,110 @@ effect of quantum computers on keys
 
 ## Enforcement and Monitoring of...
 
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
+* _Third-Party Application Stores_ -
+* _Rooting/ Jailbreaking_ -
+* _Sideloading_ -
+* _Custom Firmware_ -
+* _Carrier Unlocking_ -
+* _Firmware Over-the-Air (OTA) Updates_ -
+* _Camera Use_ -
+* _SMS/ Multimedia Messaging Service (MMS)/ Rich Communication Services (RCS)_ -
+* _External Media_ -
+* _USB On-The-Go (USB OTG)_ -
+* _Recording Microphone_ -
+* _GPS Tagging_ -
+* _WiFi Direct/ Ad Hoc_ -
+* _Tethering_ -
+* _Hotspot_ -
+* _Payment Methods_ -
 
 
 ## Deployment Models
 
+* _Bring Your Own Device (BYOD)_ -
+* _Corporate-Ownded Personally Enabled (COPE)_ -
+* _Choose Your Own Device (COPE)_ -
+* _Corporate-Owned_ -
+* _Virtual Desktop Infrastructure (VDI)_ -
+
+
+
+# Apply Cybersecurity Solutions to the Cloud for Scenarios
+
+## Cloud Security Controls
+
+* _High Availability Across Zones_ -
+* _Resource Policies_ -
+* _Secrets Management_ -
+* _Integration and Auditing_ -
+* _Storage_ -
+	* _Permissions_ -
+	* _Encryption_ -
+	* _Replication_ -
+	* _High Availability_ -
+* _Network_ -
+	* _Virtual Networks_ -
+	* _Public and Private Subnets_ -
+	* _Segmentation_ -
+	* _API Inspection and Integration_ -
+* _Compute_ -
+	* _Security Groups_ -
+	* _Dynamic Resource Allocation_ -
+	* _Instance Awareness_ -
+	* _Virtual Private Cloud (VPC) Endpoint_ -
+	* _Container Security_ -
+
+
+## Solutions
+
+* _CASB_ -
+* _Application Security_ -
+* _Next-Generation Secure Web Gateway (SWG)_ -
+* _Firewall Considerations in a Cloud Environment_ -
+	* _Cost_ -
+	* _Need for Segmentation_ -
+	* _Open Systems Interconnection (OSI) Layers_ -
+
+
+## Cloud Native Controls vs Third-Party Solutions
+
+
+
+# Implement, Identify and Account Management Controls for Scenarios
+
+## Identity
+
+* __ -
 * __ -
 * __ -
 * __ -
 * __ -
 * __ -
 
+## Account Types
+
+* __ -
+* __ -
+* __ -
+* __ -
 
 
+## Account Policies
+
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
+* __ -
 
 
 
