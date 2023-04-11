@@ -1671,6 +1671,325 @@ effect of quantum computers on keys
 * _Certificate Chaining_ -
 
 
+# Operations and Incident Response
+
+
+
+# Tools to Assess Organizational Security and Scenarios
+
+## Network Reconnaissance and Discovery
+
+* _tracert/ traceroute_ -
+* _nslookup/ dig_ -
+* _ipconfig/ ifconfig_ -
+* _nmap_ -
+* _ping/ pathping_ -
+* _hping_ -
+* _netstat_ -
+* _netcat_ -
+* _IP scanners_ -
+* _arp_ -
+* _route_ -
+* _curl_ -
+* _theHarvester_ -
+* _sn1per_ -
+* _scanless_ -
+* _dnsenum_ -
+* _Nessus_ -
+* _Cuckoo_ -
+
+
+## File Manipulation
+
+* _head_ -
+* _tail_ -
+* _cat_ -
+* _grep_ -
+* _chmod_ -
+* _logger_ -
+
+
+## Shell and Script Environment
+
+* _SSH_ -
+* _PowerShell_ -
+* _Python_ -
+* _OpenSSL_ -
+
+
+## Packet Capture and Replay
+
+* _Tcpreplay_ -
+* _Tcpdump_ -
+* _Wireshark_ -
+
+
+## Forensics
+
+* _dd_ -
+* _Memdump_ -
+* _WinHex_ -
+* _FTK imager_ -
+* _Autopsy_ -
+
+
+## Exploitation Frameworks
+
+
+
+## Password Crackers
+
+
+
+## Data Sanitization
+
+
+
+# Importance of Policies, Processes and Procedures for Incident Response.
+
+
+
+## Incident Response Plans
+
+
+
+## Incident Response Process
+
+* _Preparation_ -
+* _Identification_ -
+* _Containment_ -
+* _Eradication_ -
+* _Recovery_ -
+* _Lessons Learned_ -
+
+
+## Exercises
+
+* _Tabletop_ -
+* _Walkthroughs_ -
+* _Simulations_ -
+
+
+
+## Attack Frameworks
+
+* _MITRE ATT&CK_ -
+* _The Diamond Model of Intrusion Analysis_ -
+* _Cyber Kill Chain_ -
+
+
+
+## Stakeholder Management
+
+
+
+## Communication Plan
+
+
+
+## Disaster Recovery Plan
+
+
+
+## Business Continuity Plan
+
+
+
+## Continuity of Operations Planning (COOP)
+
+
+
+
+## Incident Response Team
+
+
+
+## Retention Policies
+
+
+
+
+# Utilize Appropriate Data Sources to Support an Investigation in Incidents
+
+
+## Vulnerability Scan Output
+
+
+## SIEM Dashboards
+
+* _Sensor_ -
+* _Sensitivity_ -
+* _Trends_ -
+* _Alerts_ -
+* _Correlation_ -
+
+
+## Log Files
+
+* _Network_ -
+* _System_ -
+* _Application_ -
+* _Security_ -
+* _Web_ -
+* _DNS_ -
+* _Authentication_ -
+* _Dump Files_ -
+* _VoIP and Call Managers_ -
+* _Session Initiation Protocol (SIP) Traffic_ -
+
+
+## syslog/ rsyslog/ syslog-ng
+
+
+
+## journalctl
+
+
+
+## NXLog
+
+
+
+## Bandwidth Monitors
+
+
+
+## Metadata
+
+* _Email_ -
+* _Mobile_ -
+* _Web_ -
+* _File_ -
+
+
+## Netflows/ sFlow
+
+* _Netflow_ -
+* _sFlow_ -
+* _IPFIX_ -
+
+
+## Protocol Analyzer Output
+
+
+
+
+
+# Apply Mitigation Techniques or Controls to Secure an Environment in an Incident.
+
+
+
+## Reconfigure Endpoint Security Solutions
+
+
+* _Application Approved List_ -
+* _Application Blocklist/ Deny List_ -
+* _Quarantine_ -
+
+
+## Configuration Changes
+
+* _Firewall Rules_ -
+* _MDM_ -
+* _DLP_ -
+* _Content Filter/ URL Filter_ -
+* _Update or Revoke Certificates_ -
+
+
+## Isolation
+
+
+
+## Containment
+
+
+
+## Segmentation
+
+
+
+## SOAR
+
+* _Runbooks_ -
+* _Playbooks_ -
+
+
+
+
+
+# Key Aspects of Digital Forensics
+
+
+## Documentation/ Evidence
+
+* _Legal Hold_ -
+* _Video_ -
+* _Admissibility_ -
+* _Chain of Custody_ -
+* _Timelines of Sequence of Events_ -
+	* _Time Stamps_ -
+	* _Time Offset_ -
+* _Tags_ -
+* _Reports_ -
+* _Event Logs_ -
+* _Interviews_ -
+
+
+## Acquisition
+
+* _Order of Volatility_ -
+* _Disk_ -
+* _Random-Access Memory (RAM)_ -
+* _Swap/ Pagefile_ -
+* _OS_ -
+* _Device_ -
+* _Firmware_ -
+* _Snapshot_ -
+* _Cache_ -
+* _Network_ -
+* _Artifacts_ -
+
+
+## On-Premises vs Cloud
+
+* _Right-to-Audit Clauses_ -
+* _Regulatory/ Jurisdiction_ -
+* _Data Breach Notification Laws_ -
+
+
+## Integrity
+
+* _Hashing_ -
+* _Checksums_ -
+* _Provenance_ -
+
+
+## Preservation
+
+
+
+## E-Discovery
+
+
+
+## Data Recovery
+
+
+
+## Non-Repudiation
+
+
+
+## Strategic Intelligence/ Counterintelligence
+
+
+
+
+
+
+
+
+
 
 
 
