@@ -1549,37 +1549,128 @@ effect of quantum computers on keys
 
 ## Identity
 
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
+* _Identity Provider (IdP)_ -
+* _Attributes_ -
+* _Certificates_ -
+* _Tokens_ -
+* _SSH Keys_ -
+* _Smart Cards_ -
 
 ## Account Types
 
-* __ -
-* __ -
-* __ -
-* __ -
+* _User Account_ -
+* _Shared and Generic Accounts/ Credentials_ -
+* _Guess Accounts_ -
+* _Service Accountes_ -
 
 
 ## Account Policies
 
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
-* __ -
+* _Password Complexity_ -
+* _Password History_ -
+* _Password Reuse_ -
+* _Network Location_ -
+* _Geofencing_ -
+* _Geotagging_ -
+* _Geolocation_ -
+* _Time-Based Logins_ -
+* _Access Policies_ -
+* _Account Permissions_ -
+* _Account Audits_ -
+* _Impossible Travel Time/ Risky Login_ -
+* _Lockout_ -
+* _Disablement_ -
+
+
+# Implement Authentication and Authorization Solutions
+
+## Authentication Management
+
+* _Password Keys_ -
+* _Password Vaults_ -
+* _TPM_ -
+* _HSM_ -
+* _Knowledge-Based Authentication_ -
+
+
+## Authentication/ Authorization
+
+* _EAP_ -
+* _Challenge-Handshake Authentication Protocol (CHAP)_ -
+* _Password Authentication Protocol (PAP)_ -
+* _802.1X_ -
+* _RADIUS_ -
+* _Single Sign-On (SSO)_ -
+* _Security Assertion Markup Language (SAML)_ -
+* _Terminal Access Controller Access Control System Plus (TACACS+)_ -
+* _OAuth_ -
+* _OpenID_ -
+* _Kerberos_ -
+
+
+## Access Control Schemes
+
+* _Attribute-Based Access Control (ABAC)_ -
+* _Role-Based Access Control_ -
+* _Rule-Based Access Control_ -
+* _MAC_ -
+* _Discretionary Access Control (DAC)_ -
+* _Conditional Access_ -
+* _Privileged Access Management_ -
+* _Filesystem Permissions_ -
+
+
+# Implement Public Key Infrastructure Scenarios
+
+## Public Key Infrastructure (PKI)
+
+* _Key Management_ -
+* _Certificate Authority (CA)_ -
+* _Intermediate CA_ -
+* _Registration Authority (RA)_ -
+* _Certificate Revocation List (CRL)_ -
+* _Certificate Attributes_ -
+* _Online Certificate Status Protocol (OCSP)_ -
+* _Certificate Signing Request (CSR)_ -
+* _CN_ -
+* _Subject Alternative Name_ -
+* _Expiration_ -
+
+
+## Types of Certificates
+
+* _Wildcard_ -
+* _Subject Alternative Name_ -
+* _Code Signing_ -
+* _Self-Signed_ -
+* _Machine/ Computer_ -
+* _Email_ -
+* _User_ -
+* _Root_ -
+* _Domain Validation_ -
+* _Extended Validation_ -
+
+
+## Certificate Formats
+
+* _Distinguished Encoding Rules (DER)_ -
+* _Privacy Enhanced Mail (PEM)_ -
+* _Personal Information Exchange (PFX)_ -
+* _.cer_ -
+* _P12_ -
+* _P7B_ -
+
+
+## Concepts
+
+* _Online vs Offline CA_ -
+* _Stapling_ -
+* _Pinning_ -
+* _Trust Model_ -
+* _Key Escrow_ -
+* _Certificate Chaining_ -
+
+
 
 
 
