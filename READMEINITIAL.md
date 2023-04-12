@@ -16,6 +16,8 @@ This is the main document for my cybersecurity notes. The information is compile
 
 5. [OSI Model](#OSI-Model)
 
+# Threats, Attacks, and Vulnerabilities
+
 
 # Threats
 
@@ -26,48 +28,37 @@ This is the main document for my cybersecurity notes. The information is compile
 
 
 # Attacks
+
 ## Social Engineering Attacks
 
+The weakest link in many security chains are the people within. Social engineering attacks include online and offline attacks meant to get users to compromise their security, give sensitive information, or something they otherwise would not be normally inclined to give.
 
 
 Why are Social Engineering attacks effective?
 
 
 6 Key Principles of Social Engineering
-* _Authority_ - 
-* _Intimidation_ - 
-* _Consensus/ Social proof_ - 
-* _Scarcity_ - 
-* _Familiarity/ Liking_ - 
-* _Urgency_ - 
+* _Authority_ - Posing as a trusted figure or executive figure to increase the likelihood of adherence from the victim.
+* _Intimidation_ - Attacker threatens negative consequences if the desired actions are not performed.
+* _Consensus/ Social proof_ - People do an action that others are doing. *note to self*
+* _Scarcity_ - Establish a perceived scarcity to generate demand which makes the party more likely to act or buy into the attack.
+* _Familiarity/ Liking_ - People are more easily persuaded by others that they like or are familiar with. (e.g. looks and accents)
+* _Urgency_ - Attackers use pressure from time-based psychology principles to make targets more likely to act and less likely to question.
 
 
 
-# Main 4 Social Engineering attack vectors
-**Vishing** -
+# Social Engineering Attack Vectors
 
+**Phishing** - The most common social engineering attack form  involving emails spoofing legitimate organizations and includes multiple vector types.
+	* _Angler Phishing_ - Attack through social media using bogus or compromised social media accounts. (e.g. note research and add about compromised twitter account attack for bitcoin)
+	* _BEC (Business Email Compromise)_ - Attack in which the malicious actor tricks people, using seemingly legit emails such as company known authority figures or vendors, into giving money or corporate data.
+	* _Smishing/ SMS Phishing_ - Attack using text messages purporting to be from a reputable source to gain personal information, such as passwords or credit card information.
+	* _Tabnabbing/ Reverse Tabnabbing_ - Threat actor manipulates inactive web pages where a user goes to a different active tab and the now inactive tab is redirected to a duplicate site the malicious party controls.
+	* _Vishing/ Voice Phishing_ - Voice messages purporting to be from reputable companies in order to influence individuals and pressure them to reveal personal information.
+	* _Whaling_ - Attack where the senior executives are targeted in a company for high value information or access.
+	* _Spear Phishing_ - Attack in which the threat actor addresses and targets a specific person making the attack more difficult to detect than regular phishing scams.
+	* _Pharming_ - Attack redirects website traffic to a malicious site impersonating the intended website by exploiting system vulnerabilities that match domain names with IP addresses.
 
-
-**Phishing** - 
-
-* _Angler Phishing_ - 
-* _BEC (Business Email Compromise)_ - 
-* _Smishing/ SMS Phishing_ -
-* _Tabnabbing/ Reverse Tabnabbing_ - 
-* _Vishing/ Voice Phishing_ -
-* _Whaling_ -
-
-
-
-**Smishing** -
-
-
-
-**Impersonation** -
-
-
-
-# Social Engineering Continued
 
 | **Attack Vectors** | **Description** | **Countermeasures** |
 | --- | --- | --- |
@@ -2326,6 +2317,8 @@ effect of quantum computers on keys
 
 
 # Works Cited
+[OxfordLanguages and Google](https://languages.oup.com/google-dictionary-en/)
+
 [Wikipedia Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
 
 [Wikipedia OSI Model](https://en.wikipedia.org/wiki/OSI_model)
