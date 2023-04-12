@@ -1988,10 +1988,258 @@ effect of quantum computers on keys
 
 
 
+# Governance, Risk, and Compliance
 
 
 
+# Compare and Contrast Types of Controls
 
+
+## Category
+
+* _Managerial_ -
+* _Operational_ -
+* _Technical_ -
+
+
+## Control Type
+
+* _Preventive_ -
+* _Detective_ -
+* _Corrective_ -
+* _Deterrent_ -
+* _Compensating_ -
+* _Physical_ -
+
+
+
+# Importance of Applicable Regulations, Standards, or Frameworks that Impact Organizational Security Posture
+
+
+
+## Regulations, Standards, and Legislation
+
+* _General Data Protection Regulation (GDPR)_ -
+* _National, Territory, or State Laws_ -
+* _Payment Card Industry Data Security Standard (PCI DSS)_ -
+
+
+## Key Frameworks
+
+* _Center for Internet Security (CIS)_ -
+* _National Institute of Standards and Technology (NIST) Risk Management Framework (RMF)/ Cybersecurity Framework (CSF)_ -
+* _International Organization for Standardization (ISO) 27001/ 27002/ 27701/ 31000_ -
+* _SSAE SOC 2 Type I/II_ -
+* _Cloud Security Alliance_ -
+* _Cloud Control Matrix_ -
+* _Reference Architecture_ -
+
+
+## Benchmarks/ Secure Configuration Guides
+
+* _Platform/ Vendor-Specific Guides_ -
+	* _Web Server_ -
+	* _OS_ -
+	* _Application Server_ -
+	* _Network Infrastructure Devices_ -
+
+
+# Importance of Policies to Organizational Security
+
+
+## Personnel
+
+* _Acceptable Use Policy_ -
+* _Job Rotation_ -
+* _Mandatory Vacation_ -
+* _Separation of Duties_ -
+* _Least Privilege_ -
+* _Clean Desk Space_ -
+* _Background Checks_ -
+* _Non-Disclosure Agreements (NDA)_ -
+* _Social Media Analysis_ -
+* _Onboarding_ -
+* _Offboarding_ -
+* _User Training_ -
+	* _Gamification_ -
+	* _Capture the Flag_ -
+	* _Phishing Campaigns_ -
+		* _Phishing Simulations_ -
+	* _Computer-Based Training (CBT)_ -
+	* _Role-Based Training_ -
+
+## Diversity of Training Techniques
+
+
+## Third-Party Risk Management
+
+* _Vendors_ -
+* _Supply Chain_ -
+* _Business Partners_ -
+* _Service Level Agreement (SLA)_ -
+* _Memorandum of Understanding (MOU)_ -
+* _Measurement Systems Analysis (MSA)_ -
+* _Business Partnership Agreement (BPA)_ -
+* _End of Life (EOL)_ -
+* _End of Service Life (EOSL)_ -
+* _NDA_ -
+
+
+## Data
+
+* _Classification_ -
+* _Governance_ -
+* _Retention_ -
+
+
+## Credential Policies
+
+* _Personnel_ -
+* _Third-Party_ -
+* _Devices_ -
+* _Service Accounts_ -
+* _Administrator/ Root Accounts_ -
+
+
+## Organizational Policies
+
+* _Change Management_ -
+* _Change Control_ -
+* _Asset Management_ -
+
+
+
+# Risk Management Processes and Concepts
+
+
+## Risk Types
+
+* _External_ -
+* _Internal_ -
+* _Legacy Systems_ -
+* _Multiparty_ -
+* _IP Theft_ -
+* _Software Compliance/ Licensing_ -
+
+
+## Risk Management Strategies
+
+* _Acceptance_ -
+* _Avoidance_ -
+* _Transference_ -
+	* _Cybersecurity Insurance_ -
+* _Mitigation_ -
+
+
+## Risk Analysis
+
+* _Risk Register_ -
+* _Risk Matrix/ Heat Map_ -
+* _Risk Control Assessment_ -
+* _Risk Control Self-Assessment_ -
+* _Risk Awareness_ -
+* _Inherent Risk_ -
+* _Residual Risk_ -
+* _Control Risk_ -
+* _Risk Appetite_ -
+* _Regulations that Affect Risk Posture_ -
+* _Risk Assessment Types_ -
+	* _Qualitative_ -
+	* _Quantitative_ -
+* _Likelihood of Occurence_ -
+* _Impact_ -
+* _Asset Value_ -
+* _Single-Loss Expectancy (SLE)_ -
+* _Annualized Loss Expectancy (ALE)_ -
+* _Annualized Rate of Occurrence (ARO)_ -
+
+
+## Disaster
+
+* _Environmental_ -
+* _Person-Made_ -
+* _Internal vs External_ -
+
+
+## Business Impact Analysis
+
+* _Recovery Time Objective (RTO)_ -
+* _Recovery Point Objective (RPO)_ -
+* _Mean Time to Repair (MTTR)_ -
+* _Mean Time Between Failures (MTBF)_ -
+* _Functional Recovery Plans_ -
+* _Single Point of Failure_ -
+* _Disaster Recovery Plan (DRP)_ -
+* _Mission Essential Functions_ -
+* _Identification of Critical Systems_ -
+* _Site Risk Assessment_ -
+
+
+
+# Privacy and Sensitive Data Concepts in Relation to Security
+
+
+## Organizational Consequences of Privacy and Data Breaches
+
+* _Reputation Damage_ -
+* _Identity Theft_ -
+* _Fines_ -
+* _IP Theft_ -
+
+
+## Notfications of Breaches
+
+* _Escalation_ -
+* _Public Notifications and Disclosures_ -
+
+
+## Data Types
+
+* _Classifications_ -
+	* _Public_ -
+	* _Private_ -
+	* _Sensitive_ -
+	* _Confidential_ -
+	* _Critical_ -
+	* _Proprietary_ -
+* _Personally Identifiable Information (PII)_ -
+* _Health Information_ -
+* _Financial Information_ -
+* _Government Data_ -
+* _Customer Data_ -
+
+
+## Privacy Enhancing Technologies
+
+* _Data Minimization_ -
+* _Data Masking_ -
+* _Tokenization_ -
+* _Anonymization_ -
+* _Pseudo-Anonymization_ -
+
+
+## Roles and Responsiblities
+
+* _Data Owners_ -
+* _Data Controller_ -
+* _Data Processor_ -
+* _Data Custodian/ Steward_ -
+* _Data Protection Officer (DPO)_ -
+
+
+## Information Life Cycle
+
+
+
+## Impact Assessment
+
+
+
+## Terms of Agreement
+
+
+
+## Privacy Notice
 
 
 
@@ -2033,6 +2281,47 @@ effect of quantum computers on keys
 
 1. _Physical Layer_ - Protocol Data Unit (PDU) = Bit, Symbol
     Function: Transmission and reception of raw bit streams over a physical medium e.g. ...
+
+
+
+
+# Hardware
+
+## Laptop with Internet Access
+
+## Separate Wireless NIC
+
+## WAP
+
+## Firewall
+
+## UTM
+
+## Mobile Device
+
+## Server/ Cloud Server
+
+## IoT Devices
+
+
+
+# Software
+
+## Virtualization Software
+
+## Penetration Testing OS/ Distributions (e.g. Kali Linux, Parrot OS)
+
+## SIEM
+
+## Wireshark
+
+## Metasploit
+
+## tcpdump
+
+
+
+# CSP
 
 
 
