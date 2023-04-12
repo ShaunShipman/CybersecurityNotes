@@ -6,36 +6,47 @@ This is the main document for my cybersecurity notes. The information is compile
 
 # Table of Contents
 
-1. [Threats](#Threats)
+1.0 [Threats, Attacks, and Vulnerabilities](#1.0-threats,-attacks,-and-vulnerabilities)
 
-2. [Vulnerabilities](#Vulnerabilities)
+1.1 [Threats](#1.1-Threats)
 
-3. [Attacks](#Attacks)
+1.2 [Vulnerabilities](#1.2-Vulnerabilities)
 
-4. [Social Engineering](#Social-Engineering-Continued)
+1.3 [Attacks](#1.3-Attacks)
 
-5. [OSI Model](#OSI-Model)
+1.4 [Social Engineering](#1.4-Social-Engineering-Continued)
 
-# Threats, Attacks, and Vulnerabilities
+1.5 [Key Principles of Social Engineering](#why-are-social-engineering-attacks-effective?)
 
-
-## Threats
-
-
-
-## Vulnerabilities
+1.6 [Social Engineering Attack Vectors](#1.6-social-engineering-attack-vectors)
 
 
 
-## Attacks
 
 
-## Social Engineering Attacks
+
+[OSI Model](#OSI-Model)
+
+# 1.0 Threats, Attacks, and Vulnerabilities
+
+
+## 1.1 Threats
+
+
+
+## 1.2 Vulnerabilities
+
+
+
+## 1.3 Attacks
+
+
+## 1.4 Social Engineering Attacks
 
 The weakest link in many security chains are the people within. Social engineering attacks include online and offline attacks meant to get users to compromise their security, give sensitive information, or something they otherwise would not be normally inclined to give.
 
 
-## Why are Social Engineering Attacks Effective?
+## 1.5 Why are Social Engineering Attacks Effective?
 
 6 Key Principles of Social Engineering
 * _Authority_ - Posing as a trusted figure or executive figure to increase the likelihood of adherence from the victim.
@@ -47,7 +58,7 @@ The weakest link in many security chains are the people within. Social engineeri
 
 
 
-# Social Engineering Attack Vectors
+## 1.6 Social Engineering Attack Vectors
 
 **Phishing** - The most common social engineering attack form  involving emails spoofing legitimate organizations and includes multiple vector types.
 * _Angler Phishing_ - Attack through social media using bogus or compromised social media accounts. (e.g. note research and add about compromised twitter account attack for bitcoin)
@@ -58,6 +69,7 @@ The weakest link in many security chains are the people within. Social engineeri
 * _Whaling_ - Attack where the senior executives are targeted in a company for high value information or access.
 * _Spear Phishing_ - Attack in which the threat actor addresses and targets a specific person making the attack more difficult to detect than regular phishing scams.
 * _Pharming_ - Attack redirects website traffic to a malicious site impersonating the intended website by exploiting system vulnerabilities that match domain names with IP addresses.
+
 
 
 | **Attack Vectors** | **Description** | **Countermeasures** |
