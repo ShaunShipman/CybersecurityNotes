@@ -19,23 +19,23 @@ This is the main document for my cybersecurity notes. The information is compile
 # Threats, Attacks, and Vulnerabilities
 
 
-# Threats
+## Threats
 
 
 
-# Vulnerabilities
+## Vulnerabilities
 
 
 
-# Attacks
+## Attacks
+
 
 ## Social Engineering Attacks
 
 The weakest link in many security chains are the people within. Social engineering attacks include online and offline attacks meant to get users to compromise their security, give sensitive information, or something they otherwise would not be normally inclined to give.
 
 
-Why are Social Engineering attacks effective?
-
+## Why are Social Engineering Attacks Effective?
 
 6 Key Principles of Social Engineering
 * _Authority_ - Posing as a trusted figure or executive figure to increase the likelihood of adherence from the victim.
@@ -50,18 +50,18 @@ Why are Social Engineering attacks effective?
 # Social Engineering Attack Vectors
 
 **Phishing** - The most common social engineering attack form  involving emails spoofing legitimate organizations and includes multiple vector types.
-	* _Angler Phishing_ - Attack through social media using bogus or compromised social media accounts. (e.g. note research and add about compromised twitter account attack for bitcoin)
-	* _BEC (Business Email Compromise)_ - Attack in which the malicious actor tricks people, using seemingly legit emails such as company known authority figures or vendors, into giving money or corporate data.
-	* _Smishing/ SMS Phishing_ - Attack using text messages purporting to be from a reputable source to gain personal information, such as passwords or credit card information.
-	* _Tabnabbing/ Reverse Tabnabbing_ - Threat actor manipulates inactive web pages where a user goes to a different active tab and the now inactive tab is redirected to a duplicate site the malicious party controls.
-	* _Vishing/ Voice Phishing_ - Voice messages purporting to be from reputable companies in order to influence individuals and pressure them to reveal personal information.
-	* _Whaling_ - Attack where the senior executives are targeted in a company for high value information or access.
-	* _Spear Phishing_ - Attack in which the threat actor addresses and targets a specific person making the attack more difficult to detect than regular phishing scams.
-	* _Pharming_ - Attack redirects website traffic to a malicious site impersonating the intended website by exploiting system vulnerabilities that match domain names with IP addresses.
+* _Angler Phishing_ - Attack through social media using bogus or compromised social media accounts. (e.g. note research and add about compromised twitter account attack for bitcoin)
+* _BEC (Business Email Compromise)_ - Attack in which the malicious actor tricks people, using seemingly legit emails such as company known authority figures or vendors, into giving money or corporate data.
+* _Smishing/ SMS Phishing_ - Attack using text messages purporting to be from a reputable source to gain personal information, such as passwords or credit card information.
+* _Tabnabbing/ Reverse Tabnabbing_ - Threat actor manipulates inactive web pages where a user goes to a different active tab and the now inactive tab is redirected to a duplicate site the malicious party controls.
+* _Vishing/ Voice Phishing_ - Voice messages purporting to be from reputable companies in order to influence individuals and pressure them to reveal personal information.
+* _Whaling_ - Attack where the senior executives are targeted in a company for high value information or access.
+* _Spear Phishing_ - Attack in which the threat actor addresses and targets a specific person making the attack more difficult to detect than regular phishing scams.
+* _Pharming_ - Attack redirects website traffic to a malicious site impersonating the intended website by exploiting system vulnerabilities that match domain names with IP addresses.
 
 
 | **Attack Vectors** | **Description** | **Countermeasures** |
-| --- | --- | --- |
+| -- | --- | --- |
 | _419/ Nigerian Prince/ Advance Fee Scams_ | Call for money | Educating Users |  
 | _Baiting_ | Baiting a user with something that tempts them such as free media that can be used to entice the user to give personal information or download malicious files | Educate Users | 
 | _Credential Harvesting_ | Gathering of usernames and passwords that can be traded to other bad actors | Encrypting files that contain usernames and passwords so that if the file is accessed by a bad actor the data is protected |
