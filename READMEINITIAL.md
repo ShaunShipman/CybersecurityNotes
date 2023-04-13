@@ -6,19 +6,19 @@ This is the main document for my cybersecurity notes. The information is compile
 
 # Table of Contents
 
-1.0 [Threats, Attacks, and Vulnerabilities](Threats,-Attacks,-and-Vulnerabilities)
+1.0 [Threats, Attacks, and Vulnerabilities](10-Threats-Attacks-and-Vulnerabilities)
 
-1.1 [Threats](#Threats)
+1.1 [Threats](#11-Threats)
 
-1.2 [Vulnerabilities](#Vulnerabilities)
+1.2 [Vulnerabilities](#12-Vulnerabilities)
 
-1.3 [Attacks](#Attacks)
+1.3 [Attacks](#13-Attacks)
 
-1.4 [Social Engineering](#Social-Engineering-Continued)
+1.4 [Social Engineering](#14-Social-Engineering-Attacks)
 
-1.5 [Key Principles of Social Engineering](#Why-are-Social-Engineering-Attacks-Effective?)
+1.5 [Key Principles of Social Engineering](#15-Why-are-Social-Engineering-Attacks-Effective)
 
-1.6 [Social Engineering Attack Vectors](#Social-Engineering-Attack-Vectors)
+1.6 [Social Engineering Attack Vectors](#16-Social-Engineering-Attack-Vectors)
 
 
 
@@ -27,26 +27,26 @@ This is the main document for my cybersecurity notes. The information is compile
 
 [OSI Model](#OSI-Model)
 
-# Threats, Attacks, and Vulnerabilities
+# 1.0 Threats, Attacks, and Vulnerabilities
 
 
-## Threats
-
-
-
-## Vulnerabilities
+## 1.1 Threats
 
 
 
-## Attacks
+## 1.2 Vulnerabilities
 
 
-## Social Engineering Attacks
+
+## 1.3 Attacks
+
+
+## 1.4 Social Engineering Attacks
 
 The weakest link in many security chains are the people within. Social engineering attacks include online and offline attacks meant to get users to compromise their security, give sensitive information, or something they otherwise would not be normally inclined to give.
 
 
-## Why are Social Engineering Attacks Effective?
+## 1.5 Why are Social Engineering Attacks Effective?
 
 6 Key Principles of Social Engineering
 * _Authority_ - Posing as a trusted figure or executive figure to increase the likelihood of adherence from the victim.
@@ -58,7 +58,7 @@ The weakest link in many security chains are the people within. Social engineeri
 
 
 
-## Social Engineering Attack Vectors
+## 1.6 Social Engineering Attack Vectors
 
 **Phishing** - The most common social engineering attack form  involving emails spoofing legitimate organizations and includes multiple vector types.
 * _Angler Phishing_ - Attack through social media using bogus or compromised social media accounts. (e.g. note research and add about compromised twitter account attack for bitcoin)
