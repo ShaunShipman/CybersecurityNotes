@@ -6,7 +6,7 @@ This is the main document for my cybersecurity notes. The information is compile
 
 # Table of Contents
 
-1 [Threats, Attacks, and Vulnerabilities](1-Threats-Attacks-and-Vulnerabilities)
+1.0 [Threats, Attacks, and Vulnerabilities](10-Threats-Attacks-and-Vulnerabilities)
 
 1.1 [Threats](#11-Threats)
 
@@ -27,7 +27,7 @@ This is the main document for my cybersecurity notes. The information is compile
 
 [OSI Model](#OSI-Model)
 
-# 1 Threats, Attacks, and Vulnerabilities
+# 1.0 Threats Attacks and Vulnerabilities
 
 
 ## 1.1 Threats
