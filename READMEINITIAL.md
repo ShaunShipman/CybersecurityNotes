@@ -6,7 +6,7 @@ This is the main document for my cybersecurity notes. The information is compile
 
 # Table of Contents
 
-1 [Threats, Attacks, and Vulnerabilities](1-Threats-Attacks-and-Vulnerabilities)
+1 [Threats, Attacks, and Vulnerabilities](#1-Threats-Attacks-and-Vulnerabilities)
 
 1.1 [Threats](#11-Threats)
 
@@ -23,22 +23,27 @@ This is the main document for my cybersecurity notes. The information is compile
 
 
 
-
-
 [OSI Model](#OSI-Model)
 
-# 1 Threats Attacks and Vulnerabilities
+
+
+
+# 1 Threats, Attacks, and Vulnerabilities
 
 
 ## 1.1 Threats
 
+An event or circumstance with *potential* to adversely impact an organization or individuals.
 
 
 ## 1.2 Vulnerabilities
 
+A flaw or weakness that can allow harm to occur.
 
 
 ## 1.3 Attacks
+
+An active attempt to cause harm to an organization or individual utilizing a vulnerability in their defense.
 
 
 ## 1.4 Social Engineering Attacks
