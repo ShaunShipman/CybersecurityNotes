@@ -1,4 +1,5 @@
 # Cybersecurity Notes
+
 This is the main document for my cybersecurity notes. The information is compiled from the sources listed at the bottom of the page. For further detail on many of the discussed pieces information please use the given links.
 
 (note to self) search "note to self" or "..." for sections that need to be changed.
@@ -8,17 +9,17 @@ This is the main document for my cybersecurity notes. The information is compile
 
 1 [Threats, Attacks, and Vulnerabilities](#1-Threats-Attacks-and-Vulnerabilities)
 
-1.1 [Threats](#11-Threats)
+	1.1 [Threats](#11-Threats)
 
-1.2 [Vulnerabilities](#12-Vulnerabilities)
+	1.2 [Vulnerabilities](#12-Vulnerabilities)
 
-1.3 [Attacks](#13-Attacks)
+	1.3 [Attacks](#13-Attacks)
 
-1.4 [Social Engineering](#14-Social-Engineering-Attacks)
+	1.4 [Social Engineering](#14-Social-Engineering-Attacks)
 
-1.5 [Key Principles of Social Engineering](#15-Why-are-Social-Engineering-Attacks-Effective)
+	1.5 [Key Principles of Social Engineering](#15-Why-are-Social-Engineering-Attacks-Effective)
 
-1.6 [Social Engineering Attack Vectors](#16-Social-Engineering-Attack-Vectors)
+	1.6 [Social Engineering Attack Vectors](#16-Social-Engineering-Attack-Vectors)
 
 
 
@@ -79,22 +80,22 @@ The weakest link in many security chains are the people within. Social engineeri
 
 | **Attack Vectors** | **Description** | **Countermeasures** |
 | -- | --- | --- |
-| _419/ Nigerian Prince/ Advance Fee Scams_ | Call for money | Educating Users |  
-| _Baiting_ | Baiting a user with something that tempts them such as free media that can be used to entice the user to give personal information or download malicious files | Educate Users | 
+| _419/ Nigerian Prince/ Advance Fee Scams_ | A call to action involving money or credit card information from users that are more susceptible such as elderly users who are more prone to these scams. Scams such as these usually include minor errors that are picked up by users that are less likely to fall for the scam weeding out the harder targets leaving softer targets to respond. | Educating Users and implementing safeguards such as spam filters and establishing block lists. |  
+| _Baiting_ | Baiting a user with something that tempts them such as free media that can be used to entice the user to give personal information or download malicious files | Educate Users on ways to verify the authenticity of a source as well as fostering a mindset of questioning the authenticity of random sources till they are verified. | 
 | _Credential Harvesting_ | Gathering of usernames and passwords that can be traded to other bad actors | Encrypting files that contain usernames and passwords so that if the file is accessed by a bad actor the data is protected |
 | _Diversion Theft_ |  |  |
-| _Dumpster Diving_ |  |  | 
+| _Dumpster Diving_ | Gathering of business information from documents that have not been properly disposed of from trash cans or dumpsters. | Proper disposal methods including seperating important documents for shredding and if needed for more important documents sealed backs that are then given to a person within the company who verifies the shred bags are sealed after transit before properly disposing of the documents. | 
 | _Eliciting Information_ |  |  | 
 | _Hoax_ |  |  |
 | _Honey Trap_ |  |  |
 | _Identity Fraud_ |  |  | 
 | _Impersonation_ |  |  | 
-| _Influence Campaigns(Hybrid warfare and Social media)_ |  |  | 
+| _Influence Campaigns(Hybrid warfare and Social media)_ | Also called PSYOP or Psychological Operations in which actors will try to influence the emotions, opinions, attitudes, and behaviors of the respective audience through media. Governmental bodies and organizations are able to use media anonymously to influence various people and nationalities. | Critically evaluate the goal of the media you recieve and if it is trying to elicit an emotion in you such as anger or sadness which are common tactics to make the recipient more likely to alter their emotions and attitude.  | 
 | _Invoice Scams_ |  |  |
 | _Pharming_ |  |  |
 | _Phishing_ |  |  | 
 | _Prepending_ |  |  |
-| _Pretexting_ |  |  |
+| _Pretexting_ | Inventing a scenario that uses pretext of the victem such as social security numbers or bank statements to establish legitimacy in the mind of the target so that they are more susceptible to further requests. The information gained can then be used on later targets for an even greater basis of legitimacy. The pretexter generally needs prepared answers to questions that might be asked by a victim. | Verifying who is asking you questions, what information is being given, and what information they use for verification that may be publicly available. Airing on caution with unknown parties is a safe precaution. |
 | _Quid Pro Quo_ |  |  | 
 | _Reconnaissance_ |  |  |
 | _Scareware_ |  |  |
